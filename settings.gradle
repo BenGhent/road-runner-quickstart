@@ -1,2 +1,3 @@
+include ':TrajectoryViewer'
 include ':FtcRobotController'
 include ':TeamCode'
